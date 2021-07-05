@@ -1,0 +1,13 @@
+{
+  "name": "bot_discord",
+  "version": "1.0.0",
+  "description": "Um bot para o discord",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Everton",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "mysql2": "^2.2.5"
+  }
+}
