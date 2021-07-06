@@ -20,16 +20,16 @@ Client.on("ready", () => {
     console.log("The bot is online");
 });
 
-Client.on("menssage", (menssage)=>{
+//Client.on("menssage", (menssage)=>{
 // Fetch a channel by its id
-client.channels.fetch('855586572866027551')
-.then(channel => console.log(channel.name))
-.catch(console.error);
+//client.channels.fetch('855586572866027551')
+//.then(channel => console.log(channel.name))
+//.catch(console.error);
 
 //novo  Discord . Mensagem (cliente, dados, canal);
-return Mensagem (dados);
+//return Mensagem (dados);
 
-});
+//});
 
 
 
